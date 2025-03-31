@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Nicolas Arthur** and this is my profile! ✨ _Thx for coming_ ✨
+My name is **Nicolas Arthur Raulino Oliveira** and this is my profile! ✨ _Thx for coming_ ✨
 
 
 # About Me!  
