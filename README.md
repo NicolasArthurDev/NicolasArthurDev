@@ -52,4 +52,5 @@
 
 ---
 
-<p align="center">✨ If your dreams don't scare you, they are not big enough ✨</p>
+<p align="center"> <b>No one ever said it would be easy, but avoiding action is avoiding success and delaying your achievement. Don’t forget this: the key to victory is discipline and consistency — you just have to want to change… Do you want it? </b></p>
+<p align="center"> <i>-Nicolas Arthur Raulino Oliveira</i> </p>
