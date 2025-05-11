@@ -33,8 +33,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasArthurDev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasArthurDev&layout=compact&theme=tokyonight" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=NicolasArthurDev&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasArthurDev&theme=dark&hide_border=false" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasArthurDev&theme=dark&show_icons=true&hide_border=false&layout=compact" />
 </div>
 
 ---
