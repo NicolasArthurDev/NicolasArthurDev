@@ -12,7 +12,7 @@
 - 🖥️ **Junior System Analyst** at **Jtech (Veolia)**
 - 💡 Passionate about **AI, Machine Learning, Game Development** and **System Projects**
 - 🛠️ Currently working with **Java, HTML, CSS, JavaScript, Python, Shell Scripting** and **PostgreSQL**
-- 📚 Always learning: **Java, Python, JavaScript, React, HTML, CSS, Shell, Tailwind CSS, Next.js, Three.js** and **TypeScript**
+- 📚 Always learning: **Java, Python, JavaScript, HTML, CSS, Shell, Tailwind CSS, Next.js, React, Three.js** and **TypeScript**
 
 ---
 
