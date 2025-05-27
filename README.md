@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nicolas Arthur</h1>
 
 <p align="center">
-  🚀 Systems Validation Analyst | 📚 Tech Student | 💻 Developer  
+  🚀 Systems Analyst | 📚 Tech Student | 💻 Developer  
 </p>
 
 ---
