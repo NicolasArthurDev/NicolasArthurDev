@@ -32,12 +32,19 @@
 
 ## 📈 GitHub Stats
 
+
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasArthurDev&theme=dark&show_icons=true&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasArthurDev&theme=dark&show_icons=true&hide_border=false&layout=compact" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=NicolasArthurDev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="NicolasArthurDev's Stats"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasArthurDev&theme=midnight-purple&hide_border=true" alt="NicolasArthurDev's Streak"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasArthurDev&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="NicolasArthurDev's Top Languages"/>
 </div>
 
+
 ---
+
 
 ## 🌐 Connect with Me
 
