@@ -1,5 +1,5 @@
 <h1 align="center">Nicolas Arthur</h1>
-<p align="center">Systems Validation Analyst | ADS Student | Full-Stack Developer</p>
+<p align="center">Systems Validation Analyst | ADS Student | Developer</p>
 
 
 ---
