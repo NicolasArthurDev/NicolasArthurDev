@@ -1,18 +1,15 @@
 <h1 align="center">Nicolas Arthur</h1>
 <p align="center">Systems Validation Analyst | ADS Student | Developer</p>
 
-
----
-
 ## About Me
 
-- **System Analysis and Development (ADS)** student at **Federal Institute of Santa Catarina (IFSC)**
+- **ADS Student** (System Analysis and Development) at the **Federal Institute of Santa Catarina (IFSC)**
 - **Systems Validation Analyst** at **Jtech (Veolia)**
-- Passionate about **AI, Machine Learning, Deep Learning, Game Development** and **System Projects**
-- Currently working with **Java, HTML, CSS, JavaScript, Python, Shell Scripting** and **PostgreSQL**
-- Always learning: **Java, Python, JavaScript, HTML, CSS, Shell, Tailwind CSS, Next.js, React, Three.js** and **TypeScript**
-
----
+- Passionate about **AI, LLMs, Intelligent Agents, Machine Learning, Deep Learning**, and **System Projects**
+- Currently working with **Java, HTML, CSS, JavaScript, Python, Shell Scripting**, and **PostgreSQL**
+- Applied concepts from the **Hugging Face Agents Course** by developing **C.L.O.V.I.S**, an intelligent virtual butler powered by a local LLM and built with Streamlit
+- Experience with **LLM architecture**, **local/offline model integration**, **context-aware chat history**, and **dynamic user personalization**
+- Always learning: **LangChain, Hugging Face SDK, APIs for agents, Java, Python, JavaScript, HTML, CSS, Shell, Tailwind CSS, Next.js, React, Three.js**, and **TypeScript**
 
 ## Tech Stack
 
@@ -31,29 +28,27 @@
   <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting" />
 </div>
 
+## Featured Project
+
+### 🤖 [C.L.O.V.I.S – Conversational LLM with Intelligent Virtual Agent](https://github.com/NicolasArthurDev/clovis)
+
+> **C.L.O.V.I.S** is a local LLM-powered virtual butler that adapts its responses based on the user's name, pronouns, and interaction history. Built with **Python** and **Streamlit**, it simulates an intelligent assistant with real-time response streaming and user memory. Developed as part of my journey through the **Hugging Face Agents Course**.
+
+📌 Key concepts:
+- LLM local integration via **Ollama**
+- Contextual memory with **chat history**
+- Real-time chat with **Streamlit**
+- Personalization based on user input
+- Focus on **humanized and formal dialogue**
+
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=NicolasArthurDev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="NicolasArthurDev's Stats"/>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasArthurDev&theme=midnight-purple&hide_border=true" alt="NicolasArthurDev's Streak"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasArthurDev&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="NicolasArthurDev's Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasArthurDev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="NicolasArthurDev's Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasArthurDev&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="NicolasArthurDev's Top Languages"/>
 </div>
-
----
-
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nicolas-arthur-raulino-oliveira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/NicolasArthurDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
