@@ -13,50 +13,57 @@ With a strong foundation in **Java**, **Python**, **PostgreSQL**, and **JavaScri
 
 ## Core Skills
 
-- **Languages:** Java, Python, JavaScript (Next.js), Shell Script
-- **Web Development:** HTML, CSS, Next.js, Tailwind CSS
-- **Databases:** PostgreSQL
-- **AI & ML:** Transformers (Hugging Face), LangChain, TTS/STT APIs
-- **Dev Tools:** Git, Docker, Streamlit
+- **Languages:** Java, Python, JavaScript (Next.js), Shell Script  
+- **Web Development:** HTML, CSS, Next.js, Tailwind CSS  
+- **Databases:** PostgreSQL  
+- **AI & ML:** Transformers (Hugging Face), LangChain, TTS/STT APIs  
+- **Dev Tools:** Git, Docker, Streamlit  
 
 ---
 
 ## Featured Projects
 
-### [C.L.O.V.I.S – Intelligent Virtual Assistant](https://github.com/NicolasArthurDev/clovis)
+<details>
+<summary><strong><a href="https://github.com/NicolasArthurDev/clovis">C.L.O.V.I.S – Intelligent Virtual Assistant</a></strong></summary>
 
-AI-powered virtual assistant designed as a modular system with:
+**C.L.O.V.I.S (Contextual Language-Oriented Virtual Interactive System)** is an AI-powered virtual assistant designed as a modular, customizable system with:
 
-- Local **LLM** integration and prompt personalization
-- Context-aware **memory** architecture (JSON-based)
-- **Voice interaction** with speech recognition and synthesis
-- Interactive UI with **Streamlit**
+- Local **LLM** integration and prompt engineering
+- Context-aware **memory** architecture with persistent storage
+- Real-time **voice interaction** using speech-to-text and text-to-speech
+- Web-based UI built with **Streamlit**
 
-This project demonstrates applied knowledge in **NLP**, **LLM orchestration**, and **real-time user interaction** using open-source tools.
+This project demonstrates applied knowledge in **NLP**, **LLM orchestration**, and real-time human-machine interaction using open-source tools.
 
----
+</details>
 
-### [NeuralHunter – Autonomous Combat Bot](https://github.com/Evolutionary-Coders/neural-hunter)
+<details>
+<summary><strong><a href="https://github.com/Evolutionary-Coders/neural-hunter">NeuralHunter – Autonomous Combat Bot</a></strong></summary>
 
-A self-learning robot built with:
+A self-learning robot that uses:
 
-- **Reinforcement Learning** and Neural Networks in **Java**
+- **Reinforcement Learning** and Neural Networks, built in **Java**
 - Adaptation to enemy behavior in the **Robocode** simulation environment
-- Focus on decision-making and autonomous strategy evolution
+- Focus on decision-making, pattern recognition, and strategy evolution
 
-Built in collaboration with other developers as part of an AI and game logic exploration initiative.
+This was developed as part of a group AI and game logic exploration initiative.
 
----
+</details>
 
-### [Museu de São José – 3D Museum Website](https://github.com/Projeto-Site-do-Museu/ProjetoMuseu)
+<details>
+<summary><strong><a href="https://github.com/Projeto-Site-do-Museu/ProjetoMuseu">Museu de São José – 3D Museum Website</a></strong></summary>
 
-Responsive, modern landing page for a historical museum:
+A modern and responsive landing page for a historical museum:
 
-- Built with **Next.js**, **Tailwind CSS**, and **Three.js**
-- Features a **3D virtual tour** and optimized accessibility
-- Emphasis on cultural preservation and immersive design
+- Developed using **Next.js**, **Tailwind CSS**, and **Three.js**
+- Includes a fully interactive **3D virtual tour** experience
+- Designed to improve digital presence and user engagement through immersive UX
 
-Created for a real-world client project, combining frontend skills with storytelling through design.
+Delivered as a real-world project focusing on accessibility, performance, and interactivity.
+
+</details>
+
+More projects available at: [nicolasarthurdev.github.io](https://nicolasarthurdev.github.io)
 
 ---
 
@@ -65,10 +72,10 @@ Created for a real-world client project, combining frontend skills with storytel
 **Systems Validation Analyst**  
 Jtech (Veolia) · 2021 – Present  
 - Developed and maintained PostgreSQL scripts for automated validation of enterprise systems  
-- Automated reporting and support tasks with Python and Shell  
-- Participated in Agile development cycles and task coordination  
-- Contributed to the evolution of internal chatbot tools using Java and NLP logic  
-- Currently focusing on data analysis and AI-based automation
+- Automated internal tasks using Python and Shell Script  
+- Participated in Agile sprint cycles and task coordination  
+- Improved internal chatbot tools using Java and NLP  
+- Currently focused on data analysis, automation, and AI-based internal tools
 
 ---
 
@@ -86,4 +93,3 @@ Federal Institute of Santa Catarina – IFSC
 - LinkedIn: [linkedin.com/in/nicolas-arthur-raulino-oliveira](https://linkedin.com/in/nicolas-arthur-raulino-oliveira)  
 - Email: [nicolasarthur1806@gmail.com](mailto:nicolasarthur1806@gmail.com)  
 - Portfolio: [nicolasarthurdev.github.io](https://nicolasarthurdev.github.io)
-
