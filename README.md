@@ -1,6 +1,8 @@
 <h1 align="center">Nicolas Arthur</h1>
 <p align="center">Systems Validation Analyst | ADS Student | Developer</p>
 
+---
+
 ## About Me
 
 - **ADS Student** (System Analysis and Development) at the **Federal Institute of Santa Catarina (IFSC)**
@@ -10,6 +12,8 @@
 - Applied concepts from the **Hugging Face Agents Course** by developing **C.L.O.V.I.S**, an intelligent virtual butler powered by a local LLM and built with Streamlit
 - Experience with **LLM architecture**, **local/offline model integration**, **context-aware chat history**, and **dynamic user personalization**
 - Always learning: **LangChain, Hugging Face SDK, APIs for agents, Java, Python, JavaScript, HTML, CSS, Shell, Tailwind CSS, Next.js, React, Three.js**, and **TypeScript**
+
+---
 
 ## Tech Stack
 
@@ -27,6 +31,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting" />
 </div>
+
+---
 
 ## Featured Project
 
