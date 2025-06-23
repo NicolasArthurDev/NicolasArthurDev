@@ -1,72 +1,89 @@
 <h1 align="center">Nicolas Arthur</h1>
-<p align="center">Developer | ADS Student at IFSC | Florianópolis - SC, Brazil</p>
+<p align="center">Software Developer | AI & Systems Enthusiast | ADS Student at IFSC</p>
 
 ---
 
 ## About Me
 
-I'm a software developer with 4 years of experience in system validation and automation at **JTECH**, currently studying **System Analysis and Development (ADS)** at **IFSC**.  
-I specialize in **Java**, **Python**, **PostgreSQL**, **JavaScript (Next.js/Tailwind)**, **Shell Script**, and version control with **Git**.  
-I’m passionate about building intelligent systems, exploring AI, and solving real-world problems through technology.
+I’m a developer based in Florianópolis, Brazil, currently working as a **Systems Validation Analyst at Jtech (Veolia)** and pursuing a degree in **System Analysis and Development** at IFSC.
+
+With a strong foundation in **Java**, **Python**, **PostgreSQL**, and **JavaScript**, I build solutions that combine automation, AI, and full-stack development. I thrive on transforming complex problems into clean, scalable systems, with recent focus on **LLMs**, **NLP**, and **agent-based architectures**.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Skills
 
-- **Languages:** Java, Python, JavaScript, Shell Script
-- **Web Dev:** HTML, CSS, Next.js, Tailwind CSS
+- **Languages:** Java, Python, JavaScript (Next.js), Shell Script
+- **Web Development:** HTML, CSS, Next.js, Tailwind CSS
 - **Databases:** PostgreSQL
-- **AI Tools:** Hugging Face Transformers, LangChain, TTS/STT APIs
-- **Others:** Git, Docker, Streamlit
+- **AI & ML:** Transformers (Hugging Face), LangChain, TTS/STT APIs
+- **Dev Tools:** Git, Docker, Streamlit
 
 ---
 
-## 🎓 Education
+## Featured Projects
+
+### [C.L.O.V.I.S – Intelligent Virtual Assistant](https://github.com/NicolasArthurDev/clovis)
+
+AI-powered virtual assistant designed as a modular system with:
+
+- Local **LLM** integration and prompt personalization
+- Context-aware **memory** architecture (JSON-based)
+- **Voice interaction** with speech recognition and synthesis
+- Interactive UI with **Streamlit**
+
+This project demonstrates applied knowledge in **NLP**, **LLM orchestration**, and **real-time user interaction** using open-source tools.
+
+---
+
+### [NeuralHunter – Autonomous Combat Bot](https://github.com/Evolutionary-Coders/neural-hunter)
+
+A self-learning robot built with:
+
+- **Reinforcement Learning** and Neural Networks in **Java**
+- Adaptation to enemy behavior in the **Robocode** simulation environment
+- Focus on decision-making and autonomous strategy evolution
+
+Built in collaboration with other developers as part of an AI and game logic exploration initiative.
+
+---
+
+### [Museu de São José – 3D Museum Website](https://github.com/Projeto-Site-do-Museu/ProjetoMuseu)
+
+Responsive, modern landing page for a historical museum:
+
+- Built with **Next.js**, **Tailwind CSS**, and **Three.js**
+- Features a **3D virtual tour** and optimized accessibility
+- Emphasis on cultural preservation and immersive design
+
+Created for a real-world client project, combining frontend skills with storytelling through design.
+
+---
+
+## Experience
+
+**Systems Validation Analyst**  
+Jtech (Veolia) · 2021 – Present  
+- Developed and maintained PostgreSQL scripts for automated validation of enterprise systems  
+- Automated reporting and support tasks with Python and Shell  
+- Participated in Agile development cycles and task coordination  
+- Contributed to the evolution of internal chatbot tools using Java and NLP logic  
+- Currently focusing on data analysis and AI-based automation
+
+---
+
+## Education
 
 **System Analysis and Development (ADS)**  
-Federal Institute of Santa Catarina (IFSC)  
-*2024.2 – 2026.2*
+Federal Institute of Santa Catarina – IFSC  
+2024.2 – 2026.2
 
 ---
 
-## Professional Experience
+## Get in Touch
 
-**Systems Validation Analyst — Jtech (2021 – Present)**  
-- Designed and maintained database validation scripts using **PostgreSQL** for accounting and billing systems  
-- Automated internal processes using **Python** and shell scripting  
-- Identified bugs and system inconsistencies, collaborating with development teams to ensure fast resolution  
-- Managed task flows and sprint monitoring using Agile methodology  
-- Led improvement of internal support AI chatbot with Java and internal NLP commands  
-- Currently expanding skills in **data analysis**, **project coordination**, and **AI tool integration**
+- GitHub: [github.com/NicolasArthurDev](https://github.com/NicolasArthurDev)  
+- LinkedIn: [linkedin.com/in/nicolas-arthur-raulino-oliveira](https://linkedin.com/in/nicolas-arthur-raulino-oliveira)  
+- Email: [nicolasarthur1806@gmail.com](mailto:nicolasarthur1806@gmail.com)  
+- Portfolio: [nicolasarthurdev.github.io](https://nicolasarthurdev.github.io)
 
----
-
-## 🚀 Highlight Projects
-
-### 🤖 [C.L.O.V.I.S — Intelligent Virtual Assistant](https://github.com/NicolasArthurDev/clovis)
-**C.L.O.V.I.S (Contextual Language-Oriented Virtual Interactive System)** is an AI-driven personal butler, built using:
-- Local **LLM** with customizable prompts and context memory
-- **Voice recognition**, **speech synthesis**, and audio playback (TTS/STT)
-- Interactive UI with **Streamlit**
-- Modular architecture with memory storage and user-friendly configuration
-> This project demonstrates hands-on application of **NLP**, **Python**, **LLMs**, and human-machine interaction techniques.
-
-### 🧠 [NeuralHunter — Autonomous Combat Bot](https://github.com/Evolutionary-Coders/neural-hunter)
-- Built using **Java**, **Reinforcement Learning** and **Neural Networks**
-- Designed for the **Robocode** environment
-- The bot learns combat strategies over time and adapts to enemy patterns
-
-### 🏛️ [Museu de São José Website](https://github.com/Projeto-Site-do-Museu/ProjetoMuseu)
-- Fully responsive landing page for a historical museum, made with **Next.js**, **Tailwind CSS**, and **Three.js** for a **3D interactive tour**
-- Designed to improve visitor engagement and digital presence
-
-
-> More projects at [nicolasarthurdev.github.io](https://nicolasarthurdev.github.io)
-
----
-
-## Contact
-
-- 📧 Email: [nicolasarthur1806@gmail.com](mailto:nicolasarthur1806@gmail.com)  
-- 🌐 [LinkedIn](https://linkedin.com/in/nicolas-arthur-raulino-oliveira)  
-- 💻 [GitHub](https://github.com/NicolasArthurDev)
