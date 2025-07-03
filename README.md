@@ -51,7 +51,7 @@ This was developed as part of a group AI and game logic exploration initiative.
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/Projeto-Site-do-Museu/ProjetoMuseu">Museu de São José – 3D Museum Website</a></strong></summary>
+<summary><strong><a href="https://github.com/Projeto-Site-do-Museu/ifsc-museu-saojose">Museu de São José – 3D Museum Website</a></strong></summary>
 
 A modern and responsive landing page for a historical museum:
 
