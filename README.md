@@ -51,7 +51,7 @@ This was developed as part of a group AI and game logic exploration initiative.
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/Projeto-Site-do-Museu/ifsc-museu-saojose">Museu de São José – 3D Museum Website</a></strong></summary>
+<summary><strong><a href="https://github.com/Projeto-Site-do-Museu/ifsc-museu-saojose">Museu Histórico de São José</a></strong></summary>
 
 A modern and responsive landing page for a historical museum:
 
@@ -89,7 +89,6 @@ Federal Institute of Santa Catarina – IFSC
 
 ## Get in Touch
 
-- GitHub: [github.com/NicolasArthurDev](https://github.com/NicolasArthurDev)  
 - LinkedIn: [linkedin.com/in/nicolas-arthur-raulino-oliveira](https://linkedin.com/in/nicolas-arthur-raulino-oliveira)  
 - Email: [nicolasarthur1806@gmail.com](mailto:nicolasarthur1806@gmail.com)  
 - Portfolio: [nicolasarthurdev.github.io](https://nicolasarthurdev.github.io)
