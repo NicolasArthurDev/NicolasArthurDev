@@ -90,7 +90,6 @@ Federal Institute of Santa Catarina – IFSC
 ## Get in Touch
 
 - LinkedIn: [linkedin.com/in/nicolas-arthur-raulino-oliveira](https://linkedin.com/in/nicolas-arthur-raulino-oliveira)  
-- Email: [nicolasarthur1806@gmail.com](mailto:nicolasarthur1806@gmail.com)  
 - Portfolio: [nicolasarthurdev.github.io](https://nicolasarthurdev.github.io)
 
 ---
