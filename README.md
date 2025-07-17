@@ -22,6 +22,18 @@ With a strong foundation in **Java**, **Python**, **PostgreSQL**, and **JavaScri
 ---
 
 ## Featured Projects
+<details>
+<summary><strong><a href="https://github.com/Projeto-Site-do-Museu/ifsc-museu-saojose">Museu Histórico de São José</a></strong></summary>
+
+A modern and responsive landing page for a historical museum:
+
+- Developed using **Next.js**, **Tailwind CSS**, and **Three.js**
+- Includes a fully interactive **3D virtual tour** experience
+- Designed to improve digital presence and user engagement through immersive UX
+
+Delivered as a real-world project focusing on accessibility, performance, and interactivity.
+
+</details>
 
 <details>
 <summary><strong><a href="https://github.com/NicolasArthurDev/clovis">C.L.O.V.I.S – Intelligent Virtual Assistant</a></strong></summary>
@@ -47,19 +59,6 @@ A self-learning robot that uses:
 - Focus on decision-making, pattern recognition, and strategy evolution
 
 This was developed as part of a group AI and game logic exploration initiative.
-
-</details>
-
-<details>
-<summary><strong><a href="https://github.com/Projeto-Site-do-Museu/ifsc-museu-saojose">Museu Histórico de São José</a></strong></summary>
-
-A modern and responsive landing page for a historical museum:
-
-- Developed using **Next.js**, **Tailwind CSS**, and **Three.js**
-- Includes a fully interactive **3D virtual tour** experience
-- Designed to improve digital presence and user engagement through immersive UX
-
-Delivered as a real-world project focusing on accessibility, performance, and interactivity.
 
 </details>
 
