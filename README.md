@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi! My name is Nicolas Arthur Raulino Oliveira, I’m a developer based in Florianópolis, Brazil, currently working as a **Systems Validation Analyst at Jtech (Veolia)** and pursuing a degree in **System Analysis and Development** at IFSC.
+Hi! My name is Nicolas Arthur, I’m a developer based in Florianópolis, Brazil, currently working as a **Systems Validation Analyst at Jtech (Veolia)** and pursuing a degree in **System Analysis and Development** at IFSC.
 
 With a strong foundation in **Java**, **Python**, **PostgreSQL**, and **JavaScript**, I build solutions that combine automation, AI, and full-stack development. I thrive on transforming complex problems into clean, scalable systems, with recent focus on **LLMs**, **NLP**, and **agent-based architectures**.
 
