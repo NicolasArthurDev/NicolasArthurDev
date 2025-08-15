@@ -36,6 +36,14 @@ Delivered as a real-world project focusing on accessibility, performance, and in
 </details>
 
 <details>
+<summary><strong><a href="https://nicolasarthurdev.github.io/songlub/">Songlub</a></strong></summary>
+
+Songlub is a music studio club that offers music courses and activities. The web system must manage the registration of students/practicing musicians and their payments for enrollment and monthly fees.
+
+Repo: https://github.com/NicolasArthurDev/songlub
+</details>
+
+<details>
 <summary><strong><a href="https://github.com/NicolasArthurDev/clovis">C.L.O.V.I.S – Intelligent Virtual Assistant</a></strong></summary>
 
 **C.L.O.V.I.S (Contextual Language-Oriented Virtual Interactive System)** is an AI-powered virtual assistant designed as a modular, customizable system with:
