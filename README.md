@@ -5,19 +5,7 @@
 
 ## About Me
 
-Hi! My name is Nicolas Arthur Raulino Oliveira,  but you can call me Nic. I’m a developer based in Florianópolis, Brazil, currently working as a **Systems Validation Analyst at Jtech (Veolia)** and pursuing a degree in **System Analysis and Development** at IFSC.
-
-With a strong foundation in **Java**, **Python**, **PostgreSQL**, and **JavaScript**, I build solutions that combine automation, AI, and full-stack development. I thrive on transforming complex problems into clean, scalable systems, with recent focus on **LLMs**, **NLP**, and **agent-based architectures**.
-
----
-
-## Core Skills
-
-- **Languages:** Java, Python, JavaScript (Next.js), Shell Script  
-- **Web Development:** HTML, CSS, Next.js, Tailwind CSS  
-- **Databases:** PostgreSQL  
-- **AI & ML:** Transformers (Hugging Face), LangChain, TTS/STT APIs  
-- **Dev Tools:** Git, Docker, Streamlit  
+Hi! My name is Nicolas Arthur Raulino Oliveira. I’m a developer and I work in Florianópolis, Brazil.
 
 ---
 
@@ -71,18 +59,6 @@ This was developed as part of a group AI and game logic exploration initiative.
 </details>
 
 More projects available at: [nicolasarthurdev.github.io](https://nicolasarthurdev.github.io)
-
----
-
-## Experience
-
-**Systems Validation Analyst**  
-Jtech (Veolia) · 2021 – Present  
-- Developed and maintained PostgreSQL scripts for automated validation of enterprise systems  
-- Automated internal tasks using Python and Shell Script  
-- Participated in Agile sprint cycles and task coordination  
-- Improved internal chatbot tools using Java and NLP  
-- Currently focused on data analysis, automation, and AI-based internal tools
 
 ---
 
