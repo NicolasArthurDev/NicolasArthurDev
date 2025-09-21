@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi! My name is Nicolas Arthur Raulino Oliveira. I’m a developer and I work in Florianópolis, Brazil.
+Hi! My name is Nicolas Arthur Raulino Oliveira. I work in Florianópolis, Brazil, at Alvarez & Marsal as AI Software Developer.
 
 ---
 
