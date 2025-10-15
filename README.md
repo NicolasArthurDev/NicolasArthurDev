@@ -3,11 +3,19 @@
 
 ---
 
+
 ## About Me
 
 Hi! My name is Nicolas Arthur Raulino Oliveira. I work in Florianópolis, Brazil, at Alvarez & Marsal as AI Software Developer.
 
+
 ---
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+
 
 ## Featured Projects
 <details>
