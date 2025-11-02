@@ -1,12 +1,12 @@
 <h1 align="center">Nicolas Arthur</h1>
-<p align="center">Software Developer | AI & Systems Enthusiast | ADS Student at IFSC</p>
+<p align="center">AI Software Developer | AI & Systems Enthusiast | ADS Student at IFSC</p>
 
 ---
 
 
 ## About Me
 
-Hi! My name is Nicolas Arthur Raulino Oliveira. I work in Florianópolis, Brazil, at Alvarez & Marsal as AI Software Developer.
+Hi! My name is Nicolas Arthur. I work in Florianópolis, Brazil, at Alvarez & Marsal as AI Software Developer.
 
 
 ---
