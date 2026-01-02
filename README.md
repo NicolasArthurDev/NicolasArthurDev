@@ -14,7 +14,7 @@ Hi! My name is Nicolas Arthur. I work in Florianópolis, Brazil, at Alvarez & Ma
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
-
+g
 
 
 ## Featured Projects
